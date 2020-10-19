@@ -1,2 +1,2 @@
 A text inside File2
-New line from feat2
+Line substituted at Feat3
